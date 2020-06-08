@@ -9,6 +9,7 @@
 #![deny(missing_docs)]
 #![deny(missing_debug_implementations)]
 #![no_std]
+#![feature(ptr_cast)]
 
 #[allow(unused_imports)]
 #[macro_use]
